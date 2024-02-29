@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name":" Sharara suit",
+        "price": 2000,
+        "image": "img1.jpeg"
+    },
+    {
+        "id": 2,
+        "name":" Red Dress",
+        "price": 2500,
+        "image": "img2.jpeg"
+    },
+    {
+        "id": 3,
+        "name":"Skirt Dress",
+        "price": 2900,
+        "image": "img3.jpeg"
+    },
+    {
+        "id": 4,
+        "name":" Short Blue Dress",
+        "price": 2000,
+        "image": "img4.jpeg"
+    },
+    {
+        "id": 5,
+        "name":" Ethinc suit",
+        "price": 3500,
+        "image": "img5.jpeg"
+    },
+    {
+        "id": 6,
+        "name":" Skirt Dress",
+        "price": 2800,
+        "image": "img6.jpeg"
+    },
+    {
+        "id": 7,
+        "name":"short Skirt",
+        "price": 2300,
+        "image": "img4.jpeg"
+    },
+    {
+        "id": 8,
+        "name":" Ethinc skirt",
+        "price": 2600,
+        "image": "img3.jpeg"
+    }
+
+]
